@@ -1,4 +1,8 @@
-# ux-titania
+# titania-ux has been [merged](https://github.com/libertaria-project/titania-os) to libertaria_project/titania-os repo
+
+You can find the latest version of source code inside the [titania-os](https://github.com/libertaria-project/titania-os/tree/develop/ux) repo.
+
+## ux-titania
 
 > configuration and monitoring ux for titania
 
